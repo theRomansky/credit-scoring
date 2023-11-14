@@ -1,0 +1,7 @@
+data/
+venv/
+models/
+notebooks/catboost_info
+modules/catboost_info
+.idea/
+.DS_Store
